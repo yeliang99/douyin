@@ -1,0 +1,55 @@
+page {
+    background-color: whitesmoke;
+}
+.bigcontainter{margin: 10rpx;}
+.login-icon{width: 100%;}
+.login-img {
+    width: 100%;
+   
+}
+
+/*表单内容*/
+.inputView {
+    background-color: white;
+    line-height: 90rpx;
+    margin-bottom: 5rpx;
+}
+
+/*输入框*/
+.nameImage, .keyImage {
+    margin-left: 22px;
+    width: 20px;
+    height: 20px;
+}
+
+.loginLabel {
+    margin: 15rpx 15rpx 15rpx 10rpx;
+    color: gray;
+    font-size: 15px;
+}
+
+.inputText {
+    float: right;
+    text-align: left;
+    margin-right: 22px;
+    margin-top: 11px;
+    font-size: 15px;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: gainsboro;
+    margin-top: 1px;
+}
+
+/*按钮*/
+.loginBtn {
+    width: 80%;
+    margin-top: 35px;
+}
+
+.goLoginBtn {
+    width: 80%;
+    margin-top: 15px;
+}

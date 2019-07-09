@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="imooc-video-admin-mng:war">
+    <output-path>$PROJECT_DIR$/imooc-video-admin-mng/target</output-path>
+    <root id="archive" name="imooc-video-admin-mng.war">
+      <element id="artifact" artifact-name="imooc-video-admin-mng:war exploded" />
+    </root>
+  </artifact>
+</component>

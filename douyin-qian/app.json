@@ -1,0 +1,25 @@
+{
+  "pages": [
+                "pages/userLogin/login",
+            "pages/index/index",
+
+        "pages/videoinfo/videoinfo",
+    "pages/mine/mine",
+    "pages/chooseBgm/chooseBgm",
+    "pages/userRegist/regist",
+        "pages/report/report",
+    "pages/searchPage/searchPage"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "阿休视频",
+    "navigationBarTextStyle": "black"
+  },
+  "networkTimeout": {
+    "request": 100000,
+    "downloadFile": 100000
+  },
+  "sitemapLocation": "sitemap.json",
+  "debug": true
+}
